@@ -64,10 +64,17 @@
 nav ul a {
     font-size: 1.2rem;
     color: #FFF;
-    letter-spacing: 2px;
     display: block;
     font-weight: 300;
     padding: 0px 15px;
+}
+
+nav ul li {
+  height: 100px;
+}
+
+.side-nav li {
+  height: auto;
 }
 
 .mdi-navigation-menu {
