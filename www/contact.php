@@ -2,7 +2,7 @@
 
 if(isset($_POST['email'])) {
 
-    $email_to = "joash.pereira@gmail.com";
+    $email_to = "hello@saffroninfusion.com";
  
     $email_subject = "Website Contact";
 
@@ -83,7 +83,7 @@ if(isset($_POST['email'])) {
  
  
  
-Thank you for contacting me. Will be in touch with you very soon.
+Thank you for contacting us. We will be in touch with you very soon.
  
  
  
