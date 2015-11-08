@@ -99,7 +99,7 @@ nav ul a {
 .cd-headline.type .cd-words-wrapper.selected {
     background-color: rgba(255,255,255,0.2);
     border-radius: 7px;
-    padding-left: 20px;
+    padding-left: 5px;
 }
 
 .cd-headline.type .cd-words-wrapper.selected::after {
@@ -209,10 +209,14 @@ nav ul a {
 
 @media only screen and (max-width: 480px) {
     .text_h {
-        padding: 4% 0;
-        font-size: 5em;
+        padding: 19% 0;
+        font-size: 3em;
         font-weight: 100;
         color: white;
+    }
+    #index-banner {
+        min-height: 300px;
+        max-height: 300px;
     }
 }
 
@@ -221,7 +225,12 @@ input, textarea {
 }
 
 nav a.button-collapse {
-    left: -25px;
+    left: -5px;
+}
+
+.side-nav a {
+    font-size: 1.3rem;
+    font-weight: 400;
 }
 
 .card-avatar .waves-effect {
