@@ -6,7 +6,7 @@
     padding: 0 15px;
 }
 
-#intro, #work, #team {padding-top: 4rem;}
+#services, #work, #team {padding-top: 4rem;}
 
 
 #index-banner {
@@ -50,14 +50,14 @@
 
 .promo i {
     color: #4b0049;
-    font-size: 7rem;
+    font-size: 4rem;
     display: block;
 }
 .card-content a {color: #4b0049;}
 
 .card-content a:hover {color: #4b0049;}
 
-#work, #team{background: rgb(247, 247, 247);}
+#work, #team{background: rgb(240, 240, 240);}
 
 .text_pink{color:#EF9A9A;}
 
